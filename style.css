@@ -73,7 +73,9 @@ header h1 {
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;
   }
+  
   /* Hero Style End */
 
   .hero-form {
