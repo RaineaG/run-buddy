@@ -296,9 +296,12 @@ header h1 {
 
 /* REACH OUT STYLES END */
  .footer-text {
-  color: #024e76 !important;
+  
+  text-align: left;
  }
-
+ footer h2{
+   color: #024e76!important;
+ }
 
  
  
