@@ -302,6 +302,9 @@ header h1 {
  footer h2{
    color: #024e76!important;
  }
+ section {
+  padding: 60px;
+}
 
  
  
